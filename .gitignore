@@ -1,2 +1,4 @@
 .vagrant/
 *.bento-ubuntu-24.04-cloudimg-console
+*.terraform.tfstate
+*.terraform.tfstate.backup
